@@ -6,5 +6,5 @@
 
 preview:
 
-[success](https://github.com/tgz/jenkins-mail-template/blob/master/preview_success.jpg?raw=true)
-[fail](https://github.com/tgz/jenkins-mail-template/blob/master/preview_fail.jpg)
+![success](./preview_success.jpg)
+![fail](./preview_fail.jpg)
